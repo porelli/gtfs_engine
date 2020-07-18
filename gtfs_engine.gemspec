@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.date = "2020-05-18"
   s.description = "A Rails Engine to provide a basic RESTful interface for GTFS feeds. GTFS Spec: https://developers.google.com/transit/gtfs".freeze
   s.email = "jon@ertt.ca".freeze
-  s.executables = ["rails".freeze]
+  s.executables = ["gtfs".freeze]
   s.extra_rdoc_files = [
     "README.textile"
   ]
